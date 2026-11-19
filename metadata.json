@@ -1,0 +1,6 @@
+{
+  "name": "SS 30-2 Theme 6 Interactive Study Guide",
+  "description": "An interactive study guide for Social Studies 30-2 Theme 6: Communism and Fascism as a Rejection of Liberalism, featuring plain-language concept breakdowns, vocabulary flashcards, an interactive political-economic spectrum lab, and practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
